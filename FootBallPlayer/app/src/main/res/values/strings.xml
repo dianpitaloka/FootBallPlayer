@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FootBallPlayer</string>
+    <string name="nama">name</string>
+    <string name="posisi">position</string>
+    <string name="tgl_lahir">Birth date</string>
+    <string name="no">no</string>
+</resources>
